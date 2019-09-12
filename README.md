@@ -1,2 +1,2 @@
 # foxplanet
-The guide notes for doing research in the field of gravitational lenisng, galactic dynamics, and cosmology
+这是一个帮助研究者在国家天文台数值宇宙学团组生存下去的指南集合
